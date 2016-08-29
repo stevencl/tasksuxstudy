@@ -1,0 +1,14 @@
+{
+  "name": "taskstudy",
+  "version": "1.0.0",
+  "description": "Used for a user study on tasks in VS Code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "stevencl",
+  "license": "ISC",
+  "devDependencies": {
+    "karma": "^1.2.0"
+  }
+}
